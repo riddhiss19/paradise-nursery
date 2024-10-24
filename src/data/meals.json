@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Breakfast",
+      "pricePerPerson": 50
+    },
+    {
+      "id": 2,
+      "name": "High Tea",
+      "pricePerPerson": 25
+    },
+    {
+      "id": 3,
+      "name": "Lunch",
+      "pricePerPerson": 65
+    },
+    {
+      "id": 4,
+      "name": "Dinner",
+      "pricePerPerson": 70
+    }
+  ]
+  

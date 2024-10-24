@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Speakers",
+      "price": 35,
+      "image": "/images/addons/speaker.png"
+    },
+    {
+      "id": 2,
+      "name": "Microphones",
+      "price": 45,
+      "image": "/images/addons/microphone.png"
+    },
+    {
+      "id": 3,
+      "name": "Whiteboards",
+      "price": 80,
+      "image": "/images/addons/whiteboard.png"
+    },
+    {
+      "id": 4,
+      "name": "Projectors",
+      "price": 200,
+      "image": "/images/addons/projector.png"
+    },
+    {
+      "id": 5,
+      "name": "Signage",
+      "price": 80,
+      "image": "/images/addons/signage.png"
+    }
+  ]
+  
